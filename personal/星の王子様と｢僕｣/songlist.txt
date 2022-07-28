@@ -1,0 +1,41 @@
+	{
+      "id": "Princestars",
+      "title_localized": {
+        "en": "Prince of the stars and me",
+	  "ja": "ÐÇ¤ÎÍõ×Ó˜”¤ÈƒW"
+      },
+      "artist": "Mimi",
+      "bpm": "189",
+      "bpm_base": 189,
+      "set": "",
+      "purchase": "",
+      "audioPreview": 82971,
+      "audioPreviewEnd": 93129,
+      "side": 1,
+      "bg": "bg_princestars",
+      "date": 1552796302,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 9,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

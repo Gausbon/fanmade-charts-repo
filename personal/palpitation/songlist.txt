@@ -1,0 +1,40 @@
+	{
+      "id": "palpitation",
+      "title_localized": {
+        "en": "Palpitation"
+      },
+      "artist": "Zekk",
+      "bpm": "198",
+      "bpm_base": 198,
+      "set": "9.15",
+      "purchase": "",
+      "audioPreview": 71188,
+      "audioPreviewEnd": 89694,
+      "side": 0,
+      "bg": "single_light",
+      "date": 1567870893,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 9,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

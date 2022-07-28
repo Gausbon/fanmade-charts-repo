@@ -1,0 +1,37 @@
+﻿{
+      "id": "xronier_hard",
+      "title_localized": {
+        "en": "Xronièr"
+      },
+      "artist": "かめりあ as ”fluX Xroise”",
+      "bpm": "234",
+      "bpm_base": 234,
+      "set": "none",
+      "purchase": "",
+      "audioPreview": 30768,
+      "audioPreviewEnd": 52307,
+      "side": 0,
+      "bg": "single_light",
+      "date": 1564558000,
+      "version": "3.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "G A U S B O N",
+          "jacketDesigner": "",
+          "rating": 14,
+        }
+      ]
+    }

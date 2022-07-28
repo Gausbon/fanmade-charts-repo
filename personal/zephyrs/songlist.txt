@@ -1,0 +1,39 @@
+    {
+      "id": "zephyrs",
+      "title_localized": {
+        "en": "Zephyrs"
+      },
+      "artist": "Frums",
+      "bpm": "85",
+      "bpm_base": 85,
+      "set": "5.15",
+      "purchase": "",
+      "audioPreview": 91084,
+      "audioPreviewEnd": 103084,
+      "side": 0,
+      "bg": "single_light",
+      "date": 1554818887,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Nitro",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "GRIMGROOVE",
+          "rating": 9,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Dimentional Gausbon",
+          "jacketDesigner": "GRIMGROOVE",
+          "rating": 0,
+          "plusFingers": 0
+        }
+      ]
+    }

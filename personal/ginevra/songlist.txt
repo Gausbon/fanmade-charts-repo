@@ -1,0 +1,42 @@
+	{
+      "id": "ginevra",
+      "title_localized": {
+        "en": "Ginevra"
+      },
+      "artist": "MYUKKE.",
+      "bpm": "170",
+      "bpm_base": 170,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 25411,
+      "audioPreviewEnd": 48000,
+      "side": 0,
+      "bg": "omatsuri_light",
+      "version": "3.0",
+      "date": 1611763114,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

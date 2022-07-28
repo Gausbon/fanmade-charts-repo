@@ -1,0 +1,40 @@
+	{
+      "id": "valangamix",
+      "title_localized": {
+        "en": "Valanga(polysha Remix)"
+      },
+      "artist": "polysha",
+      "bpm": "100",
+      "bpm_base": 200,
+      "set": "aof2020",
+      "purchase": "",
+      "audioPreview": 91770,
+      "audioPreviewEnd": 103770,
+      "side": 1,
+      "bg": "tanoc_conflict",
+      "date": 1579694965, 
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "すえ",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "すえ",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Team Gan-gsta",
+          "jacketDesigner": "すえ",
+          "rating": 10,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

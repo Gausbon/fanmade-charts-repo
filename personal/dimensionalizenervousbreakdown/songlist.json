@@ -1,0 +1,43 @@
+{
+      "id": "dimensionalizenervousbreakdown",
+      "title_localized": {
+        "en": "dimensionalize nervous breakdown"
+      },
+      "artist": "Frums",
+      "bpm": "132",
+      "bpm_base": 264,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 30909,
+      "audioPreviewEnd": 38182,
+      "side": 0,
+      "bg": "single2_light",
+      "version": "3.0",
+      "source_localized": {
+        "en": "cytusII"
+      },
+      "date": 1646997587,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "-retroaesthesia-",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    }

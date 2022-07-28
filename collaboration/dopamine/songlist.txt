@@ -1,0 +1,41 @@
+    {
+      "id": "dopamine",
+      "title_localized": {
+        "en": "Dopamine",
+        "ja": "ドーパミン"
+      },
+      "artist": "U1 overground",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 19200,
+      "audioPreviewEnd": 44400,
+      "side": 1,
+      "bg": "prelude_conflict",
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "NASU",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "NASU",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "S.M.G.T.「あなたをゆるさない」",
+          "jacketDesigner": "NASU",
+          "rating": 9,
+          "plusFingers": 0
+        }
+      ]
+    }
+    ,

@@ -1,0 +1,41 @@
+{
+	"id": "ooparts",
+	"title_localized": {
+		"en": "ΩΩPARTS"
+	},
+	"artist": "Camellia",
+	"bpm": "70-230",
+	"bpm_base": 230,
+	"set": "base",
+	"purchase": "",
+	"audioPreview": 0,
+	"audioPreviewEnd": 10000,
+	"side": 1,
+	"bg": "prelude_conflict",
+	"source_localized": {
+		"en": "osu! World Cup"
+	},
+	"date": 1623691827,
+	"version": "",
+	"difficulties": [
+		{
+			"ratingClass": 0,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 1,
+			"chartDesigner": "",
+			"jacketDesigner": "",
+			"rating": 0
+		},
+		{
+			"ratingClass": 2,
+			"chartDesigner": "ΩΩPARTS TEAM",
+			"jacketDesigner": "\"ratingClass\": 11",
+			"rating": 11,
+			"ratingPlus": true
+		}
+	]
+}

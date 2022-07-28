@@ -1,0 +1,40 @@
+	{
+      "id": "Ashes",
+      "title_localized": {
+        "en": "Ashes"
+      },
+      "artist": "Zekk",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "2.15",
+      "purchase": "",
+      "audioPreview": 76800,
+      "audioPreviewEnd": 85800,
+      "side": 1,
+      "bg": "bg_ashes",
+      "date": 1549514011,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 9,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

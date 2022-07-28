@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "andragoon",
+      "title_localized": {
+        "en": "Andragoon"
+      },
+      "artist": "Se-U-Ra",
+      "bpm": "210",
+      "bpm_base": 210,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 69712,
+      "audioPreviewEnd": 85000,
+      "side": 0,
+      "bg": "single_light",
+      "version": "3.0",
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "草,没想过",
+          "jacketDesigner": "Se-U-Ra",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+	{
+      "id": "chirality",
+      "title_localized": {
+        "en": "Chirality"
+      },
+      "artist": "Camellia",
+      "bpm": "201",
+      "bpm_base": 201,
+      "set": "1.15",
+      "purchase": "",
+      "audioPreview": 18059,
+      "audioPreviewEnd": 28656,
+      "side": 1,
+      "bg": "single_conflict",
+      "date": 1578592701, 
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "(S)-Gausbon",
+          "jacketDesigner": "",
+          "rating": 9,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

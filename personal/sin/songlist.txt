@@ -1,0 +1,42 @@
+	{
+      "id": "sin",
+      "title_localized": {
+        "en": "SIN",
+        "zh-Hans": "罪曲",
+        "zh-Hant": "罪曲",
+      },
+      "artist": "Missionary",
+      "bpm": "190",
+      "bpm_base": 190,
+      "set": "",
+      "purchase": "",
+      "audioPreview": 43027,
+      "audioPreviewEnd": 53000,
+      "side": 1,
+      "bg": "bg_conflict",
+      "date": 1565446213,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "arc.sin()",
+          "jacketDesigner": "",
+          "rating": 9,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

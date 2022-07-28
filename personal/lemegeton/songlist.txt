@@ -1,0 +1,40 @@
+	{
+      "id": "lemegeton",
+      "title_localized": {
+        "en": "Lemegeton -little key of solomon-"
+      },
+      "artist": "Team Grimoire vs MASAKI",
+      "bpm": "185",
+      "bpm_base": 185,
+      "set": "5.1",
+      "purchase": "",
+      "audioPreview": 66221,
+      "audioPreviewEnd": 76599,
+      "side": 1,
+      "bg": "gc_conflict",
+      "date": 1587389365, 
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 10,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

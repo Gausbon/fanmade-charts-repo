@@ -1,0 +1,41 @@
+{
+      "id": "merikuri",
+      "title_localized": {
+        "en": "Snowfall, merikuri",
+		    "jp": "雪降り、メリクリ"
+      },
+      "artist": "A39",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 20695,
+      "audioPreviewEnd": 32695,
+      "side": 0,
+      "bg": "vs_light",
+      "version": "2021.6",
+      "date": 1624871299,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    }

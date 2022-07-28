@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "anu",
+      "title_localized": {
+        "en": "ANU"
+      },
+      "artist": "sasakure.UK VS 穴山大輔",
+      "bpm": "240?",
+      "bpm_base": 240,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 110269,
+      "audioPreviewEnd": 126269,
+      "side": 0,
+      "bg": "gou",
+      "version": "3.0",
+      "date": 1619050594,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 11,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

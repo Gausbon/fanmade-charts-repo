@@ -1,0 +1,40 @@
+	{
+      "id": "illnesslilin",
+      "title_localized": {
+        "en": "iLLness LiLin"
+      },
+      "artist": "Kaneko Chiharu",
+      "bpm": "280",
+      "bpm_base": 280,
+      "set": "5.15",
+      "purchase": "",
+      "audioPreview": 102054,
+      "audioPreviewEnd": 112340,
+      "side": 1,
+      "bg": "yugamu",
+      "date": 1556945714,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Madness Gausbon",
+          "jacketDesigner": "",
+          "rating": 11,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

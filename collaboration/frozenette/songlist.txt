@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "frozenette",
+      "title_localized": {
+        "en": "F-Ronzette"
+      },
+      "artist": "Se-U-Ra",
+      "bpm": "219",
+      "bpm_base": 219,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 94293,
+      "audioPreviewEnd": 107718,
+      "side": 1,
+      "bg": "nijuusei-conflict-b",
+      "version": "3.0",
+      "date": 1487980800,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "草,去看看",
+          "jacketDesigner": "Se-U-Ra",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

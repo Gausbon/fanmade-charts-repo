@@ -1,0 +1,40 @@
+	{
+      "id": "shockwave",
+      "title_localized": {
+        "en": "* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...?"
+      },
+      "artist": "Camellia",
+      "bpm": "43-330",
+      "bpm_base": 242,
+      "set": "11.01",
+      "purchase": "",
+      "audioPreview": 78774,
+      "audioPreviewEnd": 92411,
+      "side": 1,
+      "bg": "yugamu",
+      "date": 1571327550,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "~GAUS~Syndrome...?",
+          "jacketDesigner": "",
+          "rating": 11,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

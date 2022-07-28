@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "fft",
+      "title_localized": {
+        "en": "FFT"
+      },
+      "artist": "Cybermiso",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 76394,
+      "audioPreviewEnd": 97726,
+      "side": 1,
+      "bg": "nijuusei-conflict-b",
+      "version": "3.0",
+      "date": 1595606314,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "Shun Yamaguchi",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    }
+  ]
+}

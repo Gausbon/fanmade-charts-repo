@@ -1,0 +1,40 @@
+	{
+      "id": "sesangjie",
+      "title_localized": {
+        "ja": "色を喪った街"
+      },
+      "artist": "かめりあ feat. かめりあ",
+      "bpm": "166",
+      "bpm_base": 166,
+      "set": "03.15",
+      "purchase": "",
+      "audioPreview": 89633,
+      "audioPreviewEnd": 105536,
+      "side": 1,
+      "bg": "bg_sesangjie",
+      "date": 1583209724,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Overspeed feat. Overspeed",
+          "jacketDesigner": "あゆた feat. あゆた",
+          "rating": 11,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,

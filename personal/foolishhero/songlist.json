@@ -1,0 +1,40 @@
+{
+      "id": "foolishhero",
+      "title_localized": {
+        "en": "Foolish Hero (FutureCore Mix)"
+      },
+      "artist": "lapix",
+      "bpm": "175",
+      "bpm_base": 175,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 123085,
+      "audioPreviewEnd": 135428,
+      "side": 0,
+      "bg": "single_light",
+      "version": "2022.1",
+      "date": 1642582460,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    }

@@ -1,0 +1,39 @@
+    {
+      "id": "interstellar",
+      "title_localized": {
+        "en": "Interstellar Experience"
+      },
+      "artist": "polysha + daph",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 32750,
+      "audioPreviewEnd": 46083,
+      "side": 1,
+      "bg": "base_conflict",
+      "date": 1554818887,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Nitro",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Nitro",
+          "jacketDesigner": "",
+          "rating": 9,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon",
+          "jacketDesigner": "",
+          "rating": 10,
+          "plusFingers": 0
+        }
+      ]
+    }
