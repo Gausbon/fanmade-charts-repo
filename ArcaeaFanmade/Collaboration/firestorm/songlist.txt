@@ -1,0 +1,40 @@
+	{
+      "id": "firestorm",
+      "title_localized": {
+        "en": "Firestorm"
+      },
+      "artist": "ETIA.",
+      "bpm": "177",
+      "bpm_base": 177,
+      "set": "12.15",
+      "purchase": "",
+      "audioPreview": 69711,
+      "audioPreviewEnd": 80000,
+      "side": 1,
+      "bg": "base_conflict",
+      "date": 1575634841,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 1,
+          "plusFingers": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon vs BPC",
+          "jacketDesigner": "",
+          "rating": 9,
+          "plusFingers": 0
+		}
+      ]
+    }
+	,
