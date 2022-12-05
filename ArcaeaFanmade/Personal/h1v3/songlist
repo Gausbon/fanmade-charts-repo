@@ -1,0 +1,44 @@
+{
+  "songs": [
+    {
+      "id": "h1v3",
+      "title_localized": {
+        "en": "H1V3"
+      },
+      "artist": "litmus*",
+      "bpm": "145",
+      "bpm_base": 145,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 34758,
+      "audioPreviewEnd": 41379,
+      "side": 1,
+      "bg": "omatsuri_conflict",
+      "version": "",
+      "date": 1669719459,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Gausbon as \"reyex\"",
+          "jacketDesigner": "",
+          "rating": 10,
+          "ratingPlus": false
+        }
+      ]
+    }
+  ]
+}
